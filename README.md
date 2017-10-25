@@ -1,3 +1,3 @@
 # Sparta-git-setup
 Development platform
-Added dev branch
+Added dev branch now
